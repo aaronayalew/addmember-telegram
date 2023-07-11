@@ -1,7 +1,7 @@
 
 {
-    "group_source": "Lealama_Menor",
-    "group_target": "go_drivers",
+    "group_source": "Haymanotachns",
+    "group_target": "gotrip_family",
     
     "api_id": 1345565,
     "api_hash": "e481962d1003645d9ed8bd5fe67509dc",
@@ -14,7 +14,6 @@
         "+251992024669",
         "+251992024869",
         "+251992024739",
-        "+251992025079",
-        "+251992024809"
+        "+251992025079"
     ]
 }
